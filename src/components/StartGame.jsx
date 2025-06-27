@@ -5,7 +5,7 @@ const StartGame = ({toggle}) => {
     <div className="flex flex-row w-[1182px] h-[522px] mt-[180px] ml-[129px] gap-[5px]">
   {/* Left: Dice Image */}
   <div className="w-[649px] h-[522px]">
-    <img src="/Game Page/dice.png" alt="dice image" className="w-full h-full object-contain" />
+    <img src="/dice.png" alt="dice image" className="w-full h-full object-contain" />
   </div>
 
   {/* Right: Text + Button */}
